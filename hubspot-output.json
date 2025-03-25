@@ -1,0 +1,24 @@
+[
+    {
+        "id": 3205217825,
+        "properties": {
+            "content": "System Score Below Recommended Threshold",
+            "createdate": "2024-09-06T18:06:19.938Z",
+            "hs_helpdesk_sort_timestamp": "2024-09-06T18:06:19.938Z",
+            "hs_last_message_from_visitor": "false",
+            "hs_lastmodifieddate": "2024-09-06T18:06:19.938Z",
+            "hs_object_id": 3205217825,
+            "hs_object_source": "INTEGRATION",
+            "hs_object_source_id": 52447,
+            "hs_object_source_label": "INTEGRATION",
+            "hs_pipeline": 0,
+            "hs_pipeline_stage": 35986742,
+            "hs_ticket_id": 3205217825,
+            "hs_ticket_priority": "LOW",
+            "subject": "NinjaOne Alert: Status Triggered"
+        },
+        "createdAt": "2024-09-06T18:06:19.938Z",
+        "updatedAt": "2024-09-06T18:06:19.938Z",
+        "archived": false
+    }
+]

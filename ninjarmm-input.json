@@ -1,0 +1,40 @@
+[
+    {
+        "ca": null,
+        "qs": [
+            {
+                "name": "client_id",
+                "value": "S7l22H_M46snrqUdcevuADedK1I"
+            },
+            {
+                "name": "client_secret",
+                "value": "_pLmWMa6Z99m3qCcME5ofAJXzNhcUHAJbKgogbsVj3cRDyVrcgxthw"
+            },
+            {
+                "name": "grant_type",
+                "value": "client_credentials"
+            }
+        ],
+        "url": "https://app.ninjarmm.com/ws/oauth/token",
+        "gzip": true,
+        "method": "post",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "timeout": null,
+        "useMtls": false,
+        "authPass": null,
+        "authUser": null,
+        "bodyType": null,
+        "serializeUrl": false,
+        "shareCookies": false,
+        "parseResponse": false,
+        "followRedirect": true,
+        "useQuerystring": false,
+        "followAllRedirects": false,
+        "rejectUnauthorized": true
+    }
+]

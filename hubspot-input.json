@@ -1,0 +1,19 @@
+[
+    {
+        "_method": "compact",
+        "subject": "NinjaOne Alert: Status Triggered",
+        "properties": [
+            {
+                "key": "hs_ticket_priority",
+                "value": "LOW"
+            },
+            {
+                "key": "content",
+                "value": "System Score Below Recommended Threshold"
+            }
+        ],
+        "hs_pipeline": "0",
+        "hs_pipeline_stage": "35986742",
+        "parseCustomFields": true
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 5569473,
+        "activityTime": 1725485108,
+        "deviceId": 2989,
+        "severity": "MINOR",
+        "priority": "LOW",
+        "seriesUid": "9ca6f82d-d5d2-4ea2-a78c-0d3f31728b38",
+        "activityType": "CONDITION",
+        "statusCode": "TRIGGERED",
+        "status": "Triggered",
+        "sourceConfigUid": "e6e2973f-82cc-4aca-b90a-e6472965a409",
+        "sourceName": "",
+        "subject": "",
+        "message": "Custom Fields condition was matched: 'System Score Below Recommended Threshold'",
+        "type": "Condition",
+        "data": {
+            "message": {
+                "code": "agent_customfields_matched",
+                "params": {
+                    "conditionName": "System Score Below Recommended Threshold"
+                }
+            }
+        }
+    }
+]
